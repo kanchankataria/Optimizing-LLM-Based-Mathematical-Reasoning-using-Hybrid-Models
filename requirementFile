@@ -1,0 +1,26 @@
+requirements.txt
+# Core
+numpy
+pandas
+scikit-learn
+
+# Plotting / analysis
+matplotlib
+
+# Hugging Face + LLM
+torch
+transformers
+datasets
+accelerate
+huggingface_hub
+sentencepiece
+
+# PEFT / LoRA + quantization
+peft
+bitsandbytes
+
+# Notebook helpers
+jupyter
+ipykernel
+tqdm    
+regex
